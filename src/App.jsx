@@ -1,10 +1,7 @@
-import ReactionTimerGame from "./components/ReactionTimerGame";
-
+import ButtonLayout from "./components/ButtonLayout"; 
 const App = () => {
   return (
-    <div className="bg-green-100 min-h-screen flex justify-center items-center">
-      <ReactionTimerGame />
-    </div>
+    <div className="bg-red-100 min-h-screen flex justify-center items-center"></div>
   );
 };
 
